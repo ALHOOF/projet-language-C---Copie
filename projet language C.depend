@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575810811 source:c:\users\user\desktop\projet language c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
